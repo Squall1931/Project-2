@@ -23,13 +23,3 @@ FILE* log_file(char* filename)
 	FILE* fp = fopen(filename, "w");
 	return fp;
 }
-
-char* current_directory(char* filename) 
-{
-
-}
-
-char* output_stream(char* filename) 
-{
-
-}
