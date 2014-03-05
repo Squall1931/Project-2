@@ -6,7 +6,5 @@
 
 FILE* out_file(char*);
 FILE* log_file(char*);
-char* current_directory();
-char* output_stream();
 
 #endif
